@@ -24,7 +24,7 @@ else
 {
 /*if head is not null, and next is not NULL*/
 while (temp->next != NULL)
-temp = temp->next;	
+temp = temp->next;
 /*go to the last node*/
 /*place our new node at the end*/
 temp->next = new_node;
