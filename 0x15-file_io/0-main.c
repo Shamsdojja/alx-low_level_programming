@@ -1,8 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "main.h"
+#include "../holberton.h"
 /**
-* main - check the code
+* main - check the code for ALX School students.
+*
+* @ac: argument counter
+* @av: argument vectors
 *
 * Return: Always 0.
 */
